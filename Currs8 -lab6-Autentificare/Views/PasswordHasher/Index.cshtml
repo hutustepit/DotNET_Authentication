@@ -1,0 +1,43 @@
+﻿
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+	Parola de Hash-uit
+	<input id="passwordToEncoded" type="text" /><br/>
+	<button id="encodeButton">Encodeaza</button>
+</div>
+
+<div>
+	SHA256 String: <input id="sha256" type="text" disabled />
+	<br/>
+	Salted SHA256 String: <input id="sha256salted" type="text" disabled />
+
+</div>
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('#encodeButton').click(function () {
+			$.ajax({
+				url: "PasswordHasher/getEncryptedStrings",
+				data: {
+					unecryptedString: $("#passwordToEncoded").val()
+				},
+				success: function (result) {
+					$("#sha256").val(result['sha256']);
+					$("#sha256salted").val(result['salted']);
+				},
+				error: function (result) {
+					console.log(result);
+				}
+
+			});
+		});
+	});
+
+</script>

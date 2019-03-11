@@ -1,0 +1,71 @@
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\ApplicationInsights.config
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Currs8 -lab6-Autentificare.dll.config
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Currs8 -lab6-Autentificare.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Currs8 -lab6-Autentificare.pdb
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Antlr3.Runtime.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\EntityFramework.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Newtonsoft.Json.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Owin.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.Helpers.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.Mvc.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.Optimization.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.Razor.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.WebPages.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\WebGrease.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.Helpers.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.Mvc.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.Optimization.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.Razor.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.WebPages.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Newtonsoft.Json.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\EntityFramework.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\obj\Debug\Currs8 -lab6-Autentificare.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\obj\Debug\Currs8 -lab6-Autentificare.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\obj\Debug\Currs8 -lab6-Autentificare.dll
+C:\Users\Student\Documents\Bogdi .NET\Currs8 -lab6-Autentificare\Currs8 -lab6-Autentificare\obj\Debug\Currs8 -lab6-Autentificare.pdb
