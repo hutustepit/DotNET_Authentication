@@ -16,22 +16,45 @@ namespace Currs8__lab6_Autentificare.Controllers
 			return View();
 		}
 
-		public ActionResult getEncryptedStrings(string unecryptedString)
+		public ActionResult getSHAString(string unecryptedString)
 		{
-			//return Json(new { sha256 = "sha256string", slated = "salted" },
-			//JsonRequestBehavior.AllowGet);
-
 			var sha256Result = sha256(unecryptedString);
-			var saltedResult = sha256(saltFunction(unecryptedString));
-
 			return Json(
 				new
 				{
-					sha256 = sha256Result,
-					salted = saltedResult
+					sha256 = sha256Result
 				},
-				JsonRequestBehavior.AllowGet);
-			}
+		JsonRequestBehavior.AllowGet);
+		}
+
+	public ActionResult getSaltedString(string unecryptedString)
+	{
+		var saltedResult = sha256(saltFunction(unecryptedString));
+		return Json(
+			new
+			{
+				salted = saltedResult
+			},
+	JsonRequestBehavior.AllowGet);
+}
+
+
+	//public ActionResult getEncryptedStrings(string unecryptedString)
+	//	{
+	//		//return Json(new { sha256 = "sha256string", slated = "salted" },
+	//		//JsonRequestBehavior.AllowGet);
+
+	//		var sha256Result = sha256(unecryptedString);
+	//		var saltedResult = sha256(saltFunction(unecryptedString));
+
+	//		return Json(
+	//			new
+	//			{
+	//				sha256 = sha256Result,
+	//				salted = saltedResult
+	//			},
+	//			JsonRequestBehavior.AllowGet);
+	//		}
 
 			private string saltFunction(string input)
 			{

@@ -22,7 +22,7 @@ namespace Currs8__lab6_Autentificare.Controllers
 
 		public ActionResult Contact()
 		{
-			ViewBag.Message = "Your contact page.";
+			ViewBag.Message = "Your contact page on the fly";
 
 			return View();
 		}

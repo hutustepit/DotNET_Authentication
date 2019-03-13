@@ -24,12 +24,26 @@
 	$(document).ready(function () {
 		$('#encodeButton').click(function () {
 			$.ajax({
-				url: "PasswordHasher/getEncryptedStrings",
+				url: "PasswordHasher/getSHAString",
 				data: {
 					unecryptedString: $("#passwordToEncoded").val()
 				},
 				success: function (result) {
 					$("#sha256").val(result['sha256']);
+					//$("#sha256salted").val(result['salted']);
+				},
+				error: function (result) {
+					console.log(result);
+				}
+
+			});
+			$.ajax({
+				url: "PasswordHasher/getSaltedString",
+				data: {
+					unecryptedString: $("#passwordToEncoded").val()
+				},
+				success: function (result) {
+					//$("#sha256").val(result['sha256']);
 					$("#sha256salted").val(result['salted']);
 				},
 				error: function (result) {
